@@ -1,0 +1,9 @@
+Open dictionary file
+Open input file
+Check to see if files opened successfully
+Print error code if cannot open file
+Create vector for dictionary file
+Add words from dictionary file to vector
+Create vector for input file
+Check if words inside input file are in dictionary file
+If word is not in dictionary, print word
